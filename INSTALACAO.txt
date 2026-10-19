@@ -1,0 +1,29 @@
+FLEX METER 0.64 — Eduardo Arraia
+
+Executa Instalar-Flex-Meter-0.64.exe e segue os passos.
+A pasta de instalação predefinida é C:\CT7ASY\Flex Meter, também ao atualizar versões anteriores. As definições pessoais são preservadas.
+O instalador verifica o .NET Framework 4.8 ou posterior. Se faltar, descarrega
+o instalador oficial da Microsoft e instala-o. Neste caso é necessária Internet
+e autorização de administrador; o Windows pode precisar de reiniciar.
+
+Inclui um atalho no menu Iniciar, um atalho automático no Ambiente de Trabalho
+e desinstalação nas Definições do Windows. A instalação para todos os utilizadores
+configura a receção UDP do programa, limitada à rede local.
+
+As definições e a posição da janela continuam na pasta pessoal de dados do Flex Meter
+e são preservadas na atualização e na desinstalação.
+
+O SmartSDR CAT é necessário apenas para ligação por porta série e deve ser instalado
+separadamente a partir da FlexRadio. Por IP, o Flex Meter liga diretamente ao rádio.
+
+O executável e o instalador ainda não têm assinatura digital comercial, pelo que
+o Windows pode mostrar avisos de reputação ou analisar o ficheiro.
+
+Tecnologias: Microsoft .NET Framework, Windows Forms e System.Drawing.
+Instalador criado com Inno Setup (Jordan Russell e Martijn Laan).
+FlexRadio e SmartSDR são marcas dos respetivos titulares.
+
+.NET oficial: https://dotnet.microsoft.com/download/dotnet-framework/net48
+Inno Setup: https://jrsoftware.org/
+
+Após a instalação, a opção de abrir o programa apresenta a Configuração. O indicativo é opcional e aparece a seguir a FLEX METER; pode ser alterado mais tarde na Configuração.
