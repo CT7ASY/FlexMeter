@@ -14,6 +14,7 @@ Medidor de sinal para FlexRadio, com leitura contínua e retenção de pico.
 - Escala proporcional: 6 dB por unidade S e indicação numérica do pico.
 - Ligação direta por IP ou por porta série do SmartSDR CAT.
 - Indicativo personalizável no cabeçalho.
+- Português, Espanhol e Inglês selecionáveis na Configuração.
 - Janela redimensionável, proporcional e sempre à frente das outras aplicações.
 - Memória da posição, do tamanho e da configuração.
 - Verificação de novas versões ao abrir o programa e em **Configuração → Sobre → Verificar atualizações**.
@@ -36,7 +37,7 @@ O SmartSDR CAT é disponibilizado separadamente pela FlexRadio. O programa não 
 
 ## Atualizações
 
-O Flex Meter consulta a última Release estável deste repositório ao arrancar. A consulta é feita em segundo plano e uma falha de Internet não impede a utilização do medidor. Quando existe uma versão nova, podes abrir a página de download e executar o novo instalador. A atualização preserva as definições do utilizador.
+O Flex Meter consulta a última Release estável deste repositório ao arrancar. A consulta é feita em segundo plano e uma falha de Internet não impede a utilização do medidor. Quando existe uma versão nova, podes descarregar o instalador dentro da aplicação. O Flex Meter verifica o tamanho e o SHA-256 antes de permitir a instalação e pede confirmação antes de fechar o programa. A atualização preserva as definições do utilizador.
 
 Também podes verificar manualmente em **Configuração → Sobre → Verificar atualizações**.
 
@@ -53,4 +54,5 @@ Este repositório destina-se à distribuição do instalador e da documentação
 C#, Windows Forms, System.Drawing e Microsoft .NET Framework. Instalador criado com [Inno Setup](https://jrsoftware.org/).
 
 FlexRadio e SmartSDR são marcas dos respetivos titulares. Flex Meter é um programa independente, sem afiliação à FlexRadio.
+
 

@@ -1,6 +1,6 @@
-FLEX METER 0.65 — Eduardo Arraia
+﻿FLEX METER 0.66 — Eduardo Arraia
 
-Executa Instalar-Flex-Meter-0.65.exe e segue os passos.
+Executa Instalar-Flex-Meter-0.66.exe e segue os passos.
 A pasta de instalação predefinida é C:\CT7ASY\Flex Meter, também ao atualizar versões anteriores. As definições pessoais são preservadas.
 O instalador verifica o .NET Framework 4.8 ou posterior. Se faltar, descarrega
 o instalador oficial da Microsoft e instala-o. Neste caso é necessária Internet
