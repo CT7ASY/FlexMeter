@@ -1,5 +1,9 @@
 # Histórico de versões
 
+## 0.67
+
+Melhorias na apresentação: espaçamentos uniformes, textos centrados e ajustes nas janelas de Configuração e Sobre.
+
 ## 0.66
 
 Pequenas correções
@@ -33,6 +37,7 @@ Primeira versão publicada no GitHub.
 - Verificação automática e manual de novas versões nas Releases do GitHub.
 - Instalador com criação automática do atalho no Ambiente de Trabalho.
 - Download do .NET Framework 4.8 a partir da Microsoft apenas quando necessário.
+
 
 
 
