@@ -1,6 +1,6 @@
-FLEX METER 0.67 — Eduardo Arraia
+FLEX METER 0.68 — Eduardo Arraia
 
-Executa Instalar-Flex-Meter-0.67.exe e segue os passos.
+Executa Instalar-Flex-Meter-0.68.exe e segue os passos.
 A pasta de instalação predefinida é C:\CT7ASY\Flex Meter, também ao atualizar versões anteriores. As definições pessoais são preservadas.
 O instalador verifica o .NET Framework 4.8 ou posterior. Se faltar, descarrega
 o instalador oficial da Microsoft e instala-o. Neste caso é necessária Internet
@@ -27,5 +27,6 @@ FlexRadio e SmartSDR são marcas dos respetivos titulares.
 Inno Setup: https://jrsoftware.org/
 
 Após a instalação, a opção de abrir o programa apresenta a Configuração. O indicativo é opcional e aparece a seguir a FLEX METER; pode ser alterado mais tarde na Configuração.
+
 
 
