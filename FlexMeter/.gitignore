@@ -1,0 +1,10 @@
+﻿/build/
+/dist/
+/tools/
+/work/
+/backups/
+*.exe
+*.pdb
+*.log
+settings.ini
+window.ini
