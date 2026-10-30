@@ -1,5 +1,9 @@
 # Histórico de versões
 
+## 0.69
+
+Cantos arredondados e melhorias no contorno da janela. Corrigido o alinhamento da moldura ao iniciar a aplicação.
+
 ## 0.68
 
 Adicionadas leituras em microvolts e dBm. Retenção de pico aumentada para 2 segundos. Ajustes no tamanho mínimo da janela e na apresentação dos valores de sinal.
@@ -41,6 +45,7 @@ Primeira versão publicada no GitHub.
 - Verificação automática e manual de novas versões nas Releases do GitHub.
 - Instalador com criação automática do atalho no Ambiente de Trabalho.
 - Download do .NET Framework 4.8 a partir da Microsoft apenas quando necessário.
+
 
 
 

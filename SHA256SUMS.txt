@@ -1,1 +1,1 @@
-1dbc3a1bf0cf518c7f0cf4fa884321a41176a9cea3ba7dfa9d7e354a52b9b44a  Instalar-Flex-Meter-0.68.exe
+6d7a841d3b76dc80a4e94722c35ab632bfbb8c14cc67d7443a9fc9586149b1f7  Instalar-Flex-Meter-0.69.exe
