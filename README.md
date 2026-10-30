@@ -49,7 +49,7 @@ O programa e o instalador ainda não têm assinatura digital comercial. O Window
 
 As definições são guardadas em `%LOCALAPPDATA%\CT7ASY\FlexMeter`. Não são incluídas nos ficheiros publicados neste repositório.
 
-O código-fonte, os recursos e os ficheiros de compilação estão disponíveis na [pasta FlexMeter](FlexMeter/). As definições pessoais, backups e ferramentas locais não são publicados.
+O código-fonte, os recursos e os ficheiros de compilação estão disponíveis neste repositório. As definições pessoais, backups e ferramentas locais não são publicados.
 
 ## Tecnologias e créditos
 
@@ -74,5 +74,6 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\build.ps1 -InnoCompile
 ```
 
 O instalador fica em `dist`. O PowerShell é apenas a ferramenta de compilação; a aplicação é desenvolvida em C#.
+
 
 
