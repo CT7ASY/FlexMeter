@@ -12,6 +12,8 @@ Medidor de sinal para FlexRadio, com leitura contínua e retenção de pico.
 
 - Ponteiro branco para leitura contínua e ponteiro encarnado para retenção de pico.
 - Escala proporcional: 6 dB por unidade S e indicação numérica do pico.
+- Leituras em microvolts e dBm, com conversão para uma entrada de 50 Ω.
+- Retenção de pico durante 2 segundos.
 - Ligação direta por IP ou por porta série do SmartSDR CAT.
 - Indicativo personalizável no cabeçalho.
 - Português, Espanhol e Inglês selecionáveis na Configuração.
@@ -72,4 +74,5 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\build.ps1 -InnoCompile
 ```
 
 O instalador fica em `dist`. O PowerShell é apenas a ferramenta de compilação; a aplicação é desenvolvida em C#.
+
 
